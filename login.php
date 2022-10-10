@@ -10,7 +10,7 @@
 <body>
 		<div class="container">
 			<form action="welcome.php" method="post">
-				
+					<!-- welcome to login -->
 					<div class="form-group">
 						<th colspan="2" align="center"><h1>Login</h1></th>
 					</div>
